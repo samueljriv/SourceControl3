@@ -5,7 +5,8 @@ public class ExampleScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Debug.Log("Hello world!")
+        Debug.Log("Hello world!");
+        Debug.Log("Test");
     }
 
     // Update is called once per frame
